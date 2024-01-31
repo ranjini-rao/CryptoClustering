@@ -71,6 +71,14 @@ Use the elbow method on the PCA data to find the best value for k using the foll
 - What is the impact of using fewer features to cluster the data using K-Means?
 - After closely observing the results, the impact of using fewer features to cluster the data using K-Means shows positive impact. Data point looks less dispersed when compared to original data. Reduced number of features through PCA helps focus on patterns, resulting in better and accurate interpretation
 
+# Adding graphs
 
+<img width="727" alt="Cluster1_graph" src="https://github.com/ranjini-rao/CryptoClustering/assets/143301151/ddca8faf-a8b8-4955-8bb9-ddf290f47abc">
+
+<img width="696" alt="Cluster2_graph" src="https://github.com/ranjini-rao/CryptoClustering/assets/143301151/2c69c58a-d137-48ae-86e7-e86c5fa9cb6a">
+
+<img width="736" alt="Elbow_Curve_1" src="https://github.com/ranjini-rao/CryptoClustering/assets/143301151/e595e2e7-c0d3-4901-b407-7e9566f13c1e">
+
+<img width="699" alt="Elbow_Curve_2" src="https://github.com/ranjini-rao/CryptoClustering/assets/143301151/bd6d0a47-82b7-4880-87ed-a21ceae17a1d">
 
 
