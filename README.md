@@ -1,4 +1,5 @@
-![8crypto](https://github.com/ranjini-rao/CryptoClustering/assets/143301151/82c339eb-3445-4233-931a-9fba1d2af4db)
+![8crypto](https://github.com/ranjini-rao/CryptoClustering/assets/143301151/6ad59c3a-5f55-49ea-8949-6ac1868424e7)
+
 
 # CryptoClustering
 Module 19 Challenge
@@ -9,7 +10,8 @@ Module 19 Challenge
 - Create a DataFrame with the scaled data and set the "coin_id" index from the original DataFrame as the index for the new DataFrame.
 - The first five rows of the scaled DataFrame should appear as follows:
 - The first five rows of the scaled DataFrame
-<img width="641" alt="image" src="https://github.com/ranjini-rao/CryptoClustering/assets/143301151/4d181862-76d6-40fd-8b81-6317e4e6d9fb">
+<img width="649" alt="image" src="https://github.com/ranjini-rao/CryptoClustering/assets/143301151/c5f3fdb1-3e79-4494-9903-9a59e6daf9f3">
+
 
 # Find the Best Value for k Using the Original Scaled DataFrame
 Use the elbow method to find the best value for k using the following steps:
@@ -38,7 +40,8 @@ Use the elbow method to find the best value for k using the following steps:
 - What is the total explained variance of the three principal components?
 Create a new DataFrame with the PCA data and set the "coin_id" index from the original DataFrame as the index for the new DataFrame.
 - The first five rows of the PCA DataFrame should appear as follows:
-<img width="600" alt="image" src="https://github.com/ranjini-rao/CryptoClustering/assets/143301151/51f3919e-8025-4015-a75b-6ba01c98d03f">
+<img width="587" alt="image" src="https://github.com/ranjini-rao/CryptoClustering/assets/143301151/b6b64247-11d2-45c7-a740-0d3d7dbd885e">
+
 
 # Find the Best Value for k Using the PCA Data
 Use the elbow method on the PCA data to find the best value for k using the following steps:
